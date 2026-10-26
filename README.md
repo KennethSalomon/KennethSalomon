@@ -1,7 +1,7 @@
 # 👋 Bienvenue! Je suis KPANOU Kenneth
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-kennethsalomon.github.io-0078D4?style=flat-square&logo=google-chrome)](https://kennethsalomon.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/📧%20Email-yessekpanou86%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:yessekpanou86@gmail.com)
+[![Email](https://img.shields.io/badge/📧%20Email-yissekpanou96%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:yessekpanou86@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-kenneth--kpanou-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kenneth-kpanou-2a216a352/)
 [![Telegram](https://img.shields.io/badge/💬%20Telegram-kenno__kpn7-0088cc?style=flat-square&logo=telegram)](https://t.me/kenno_kpn7)
 [![Location](https://img.shields.io/badge/📍%20Cotonou%2C%20Benin-green?style=flat-square&logo=google-maps)](https://maps.google.com/?q=Cotonou,Benin)
